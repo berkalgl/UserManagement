@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
-using UserManagement.Data.Common;
+using UserManagement.Data;
 using UserManagement.Data.Interfaces;
 
 namespace UserManagement.Data
